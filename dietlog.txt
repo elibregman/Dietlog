@@ -1,7 +1,11 @@
 9/19/16 - Monday
 coffee w/nature valley bar
 two hardboiled eggs
+<<<<<<< HEAD
 chicken thigh w/rice, beans and corn
 handful of peanuts
 two servings of rice, beans and corn
 two lolipops lol
+=======
+1 chicken thigh w/rice and beans
+>>>>>>> 2b65346e853e83eddfa424b9eac38ef4233258b4
